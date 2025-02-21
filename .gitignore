@@ -1,4 +1,8 @@
+# Basic
 **/.DS_Store
 **/__pycache__
 **/.vscode
 **/.ipynb_checkpoint
+
+# HW2 specific
+HW2/data/
