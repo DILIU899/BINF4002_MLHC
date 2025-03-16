@@ -5,4 +5,7 @@
 **/.ipynb_checkpoint
 
 # HW2 specific
-HW2/data/
+HW2/data
+
+# HW3 specific
+HW3/data
