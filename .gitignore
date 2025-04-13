@@ -9,3 +9,9 @@ HW2/data
 
 # HW3 specific
 HW3/data
+
+# HW4 specific
+HW4/data
+HW4/outputs
+HW4/lora_model
+**/unsloth_compiled_cache
